@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="New Table 2" max_length="40" name="x_58872_needit_new_table_2" sizeclass="0" type="collection">
+        <element label="New field 2" max_length="40" name="new_field_2" type="integer"/>
+        <element default="New filed 3" label="New field 3" max_length="40" name="new_field_3" type="integer"/>
+    </element>
+</database>
